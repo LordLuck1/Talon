@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\bin\Debug\TALON.exe.config
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\bin\Debug\TALON.exe
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\bin\Debug\TALON.pdb
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.Form1.resources
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.Properties.Resources.resources
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.exe
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.pdb
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.Form2.resources
+C:\Users\User\Desktop\Дипломка\Программа\TALON\TALON\obj\Debug\TALON.Form3.resources
